@@ -1,0 +1,74 @@
+html, body {
+    margin : 10;
+    padding : 0;
+    height : 100%;
+}
+
+#header {
+    position : relative;
+    height : 50%;
+    width : 100%;
+    margin : 0;
+}
+
+#nav {
+    position : relative;
+    top : -7%;
+    height : 10%;
+}
+
+#page {
+    position : relative;
+    width : 100%;
+    height : 80%;
+}
+
+.liste {
+    position : relative;
+    top : 3%;
+    width : 70%;
+}
+
+#stat {
+    position : relative;
+    width : 25%;
+    float : right;
+}
+
+.formulaire {
+    position : relative;
+    width : 70%;
+}
+
+#humeur {
+    position : absolute;
+    width : 100%;
+    height : 2em;
+    background-image: -webkit-linear-gradient(right top, #1EFF00 , #FFFFFF 50%, #FF0000 80%);
+    background-image: -moz-linear-gradient(right top, #1EFF00 , #FFFFFF 50%, #FF0000 80%);
+    background-image: -ms-linear-gradient(right top, #1EFF00 , #FFFFFF 50%, #FF0000 80%);
+    background-image: -o-linear-gradient(right top, #1EFF00 , #FFFFFF 50%, #FF0000 80%);
+    background-image: linear-gradient(right top, #1EFF00 , #FFFFFF 50%, #FF0000 80%);
+}
+
+#login {
+    position : absolute;
+    height : 100%;
+    width : 100%;
+    text-align : center;
+    background : no-repeat;
+    background-image: url(../contenu/images/photo_couleur2.png);
+    
+}
+
+#arnau {
+	top : 95%;
+}
+
+#arnaud {
+	top : 95%;
+}
+
+#ancre {
+	top : 95%;
+}
